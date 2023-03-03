@@ -2,6 +2,6 @@
 pkg upgrade
 
 pkg update
-git clone git@github.com:Sajid-Shinwari/Old__Clon.git
+git clone @github.com:Sajid-Shinwari/Old__Clon.git
 cd Old__Clon
 python2 Old__Clon.py
